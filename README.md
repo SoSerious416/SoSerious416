@@ -1,16 +1,30 @@
-## Hi there 👋
+# 📡 Incoming Connection... 
 
-<!--
-**SoSerious416/SoSerious416** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🟢 Status: [System Online]
+### 🛠️ Role: Professional Problem Creator
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 My Terminal
+- 🚩 **Capture The Flag** 
+- 🐛 **Bug Hunting** 
+- 📜 **Scripting** 
+- 🏗️ **Building**
+
+### 🎒 Toolbox
+`nmap` `burpsuite` `metasploit` `python` `wireshark` `kerberos`
+
+---
+
+### 📈 System Logs
+- 🔭 I’m currently exploring **[Active Directory]**.
+- 💬 Ask me about **[Why you should use a Password Manager]**.
+- ⚡ Fun Fact: **I can't fix your printer.** (Unless it's running an unpatched version of Telnet).
+
+---
+
+### 🔗 Ping Me
+[ **Instagram:2v._.zhw____** ] - [ **TryHackMe:SoSerious** ]
+
+---
+> "There is no patch for human stupidity." — *Kevin Mitnick*
