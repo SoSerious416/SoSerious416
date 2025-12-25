@@ -24,7 +24,7 @@
 ---
 
 ### 🔗 Ping Me
-[ **Instagram:2v._.zhw____** ] - [ **TryHackMe:SoSerious** ]
+[ **Instagram:(in bio)** ] - [ **TryHackMe:SoSerious** ]
 
 ---
 > "There is no patch for human stupidity." — *Kevin Mitnick*
